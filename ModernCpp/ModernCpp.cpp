@@ -2,6 +2,7 @@
 //
 
 #include "stdafx.h"
+#include "templates.h"
 
 
 int main()
