@@ -58,7 +58,9 @@ Neu in C++11 https://en.wikipedia.org/wiki/C%2B%2B11
 
 	[[deprecated("g() is thread-unsafe. Use h() instead")]] // C++ 14
 
-11. Zusätzliche Konstrukturtypen?
+11. Zusätzliche Konstrukturtypen: Move Constructor, inherited and delegating constructors
+	https://blog.smartbear.com/c-plus-plus/c11-tutorial-introducing-the-move-constructor-and-the-move-assignment-operator/
+
 
 12. CPP Core Guidelines
 	https://github.com/isocpp/CppCoreGuidelines/blob/master/CppCoreGuidelines.md
@@ -70,10 +72,11 @@ Neu in C++11 https://en.wikipedia.org/wiki/C%2B%2B11
 		- http://en.cppreference.com/w/cpp/memory/unique_ptr/unique_ptr
 
 Ressourcen:
-	- Workshop-Unterlagen (Volker)
+	- Workshop-Unterlagen (HLRS, interner Sharepoint Documents/Schulungsunterlagen)
 
 	- https://github.com/matthid/ModernCpp (Code)
 	- http://en.cppreference.com/w/cpp/memory/unique_ptr/unique_ptr
 	- http://www.yolinux.com/TUTORIALS/Cpp-Templates.html 
 	- http://en.cppreference.com/w/cpp/language/type_alias
 	- http://en.cppreference.com/w/cpp/language/template_argument_deduction
+	- [Microsoft "Welcome Back to C++ (Modern C++)"](https://msdn.microsoft.com/en-us/library/hh279654.aspx)
