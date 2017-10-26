@@ -23,7 +23,8 @@ Neu in C++11 https://en.wikipedia.org/wiki/C%2B%2B11
 	
 3. Lambda functions & Expressions
 	 [capture](parameters) -> return_type { function_body }
-	 
+
+-
 	https://en.wikipedia.org/wiki/Anonymous_function#C.2B.2B_.28since_C.2B.2B11.29
 	https://stackoverflow.com/questions/7627098/what-is-a-lambda-expression-in-c11
 	
@@ -80,3 +81,4 @@ Ressourcen
 - http://en.cppreference.com/w/cpp/language/type_alias
 - http://en.cppreference.com/w/cpp/language/template_argument_deduction
 - [Microsoft "Welcome Back to C++ (Modern C++)"](https://msdn.microsoft.com/en-us/library/hh279654.aspx)
+- [Google C++ Style Guide](http://google.github.io/styleguide/cppguide.html) - partly including C++11
