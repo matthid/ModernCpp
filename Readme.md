@@ -79,4 +79,4 @@ Ressourcen:
 	- http://www.yolinux.com/TUTORIALS/Cpp-Templates.html 
 	- http://en.cppreference.com/w/cpp/language/type_alias
 	- http://en.cppreference.com/w/cpp/language/template_argument_deduction
-	- [Microsoft "Welcome Back to C++ (Modern C++)"](https://msdn.microsoft.com/en-us/library/hh279654.aspx)
+	- Microsoft "Welcome Back to C++ (Modern C++)" https://msdn.microsoft.com/en-us/library/hh279654.aspx
