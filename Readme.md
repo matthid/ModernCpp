@@ -13,7 +13,6 @@ Neu in C++11 https://en.wikipedia.org/wiki/C%2B%2B11
 	  - http://www.yolinux.com/TUTORIALS/Cpp-Templates.html
 	  - http://en.cppreference.com/w/cpp/language/type_alias
 	  - http://en.cppreference.com/w/cpp/language/template_argument_deduction
-	  - 
 	
 	  a) static_assert (http://en.cppreference.com/w/cpp/language/static_assert)
 	  b) type traits (http://en.cppreference.com/w/cpp/types)
@@ -71,12 +70,13 @@ Neu in C++11 https://en.wikipedia.org/wiki/C%2B%2B11
 14. RAII - Smart Pointer
 		- http://en.cppreference.com/w/cpp/memory/unique_ptr/unique_ptr
 
-Ressourcen:
-	- Workshop-Unterlagen (HLRS, interner Sharepoint Documents/Schulungsunterlagen)
+Ressourcen
+----------
+- Workshop-Unterlagen (HLRS, interner Sharepoint Documents/Schulungsunterlagen)
 
-	- https://github.com/matthid/ModernCpp (Code)
-	- http://en.cppreference.com/w/cpp/memory/unique_ptr/unique_ptr
-	- http://www.yolinux.com/TUTORIALS/Cpp-Templates.html 
-	- http://en.cppreference.com/w/cpp/language/type_alias
-	- http://en.cppreference.com/w/cpp/language/template_argument_deduction
-	- Microsoft "Welcome Back to C++ (Modern C++)" https://msdn.microsoft.com/en-us/library/hh279654.aspx
+- https://github.com/matthid/ModernCpp (Code)
+- http://en.cppreference.com/w/cpp/memory/unique_ptr/unique_ptr
+- http://www.yolinux.com/TUTORIALS/Cpp-Templates.html 
+- http://en.cppreference.com/w/cpp/language/type_alias
+- http://en.cppreference.com/w/cpp/language/template_argument_deduction
+- [Microsoft "Welcome Back to C++ (Modern C++)"](https://msdn.microsoft.com/en-us/library/hh279654.aspx)
